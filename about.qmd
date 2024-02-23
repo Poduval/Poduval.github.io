@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+I am a Data Science professional with 13+ years of experience. I have worked extensively on Automated Valuation Models (AVM) for the Swiss Real Estate Market and also have a considerable amount of time spent in the consumer retail analytics sector. I have been active in various ML, text mining & DL for visual computing challenges. My passion relies on solving statistical challenges to optimize business needs. 
 
-```{r}
-1 + 1
-```
+I have expertise in R Studio into production, data management with SQL & python programming. 
