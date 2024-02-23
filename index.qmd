@@ -1,5 +1,5 @@
 ---
-title: "Poduval.github.io"
+title: "poduval.github.io"
 ---
 
 This is a Quarto website.
