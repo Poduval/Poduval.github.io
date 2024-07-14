@@ -1,5 +1,5 @@
 ---
-title: "poduval.github.io"
+title: "Rakesh's data science corner"
 ---
 
 Welcome to my corner of the digital world! I'm passionate about data science and its game-changing applications in our lives. Here, I explore the magic of turning raw data into actionable insights. From predicting trends to optimizing decisions, join me on this exciting journey into the heart of data science.
