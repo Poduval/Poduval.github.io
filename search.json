@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "poduval.github.io",
+    "objectID": "Home.html",
+    "href": "Home.html",
+    "title": "Rakesh’s data science corner",
     "section": "",
     "text": "Welcome to my corner of the digital world! I’m passionate about data science and its game-changing applications in our lives. Here, I explore the magic of turning raw data into actionable insights. From predicting trends to optimizing decisions, join me on this exciting journey into the heart of data science."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "I am a Data Science professional with 13+ years of experience. I have worked extensively on Automated Valuation Models (AVM) for the Swiss Real Estate Market and also have a considerable amount of time spent in the consumer retail analytics sector. I have been active in various ML, text mining & DL for visual computing challenges. My passion relies on solving statistical challenges to optimize business needs.\nI have expertise in R Studio into production, data management with SQL & python programming."
+    "text": "I am a Data Science professional with 13+ years of experience. I have worked extensively on Automated Valuation Models (AVM) for the Swiss Real Estate Market and also have a considerable amount of time spent in the consumer retail analytics sector. I have been active in various ML, text mining & DL for visual computing challenges. My passion relies on solving statistical challenges to optimize business needs.\nI have expertise in RStudio into production, data management with SQL & python programming."
   }
 ]
